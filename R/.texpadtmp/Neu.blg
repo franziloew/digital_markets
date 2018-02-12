@@ -1,0 +1,21 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is '/Users/Franzi/Desktop/R/.texpadtmp/Neu.blg'
+[79] biber-darwin:276> INFO - === Wed Dec 14, 2016, 19:34:30
+[79] Biber.pm:333> INFO - Reading '/Users/Franzi/Desktop/R/.texpadtmp/Neu.bcf'
+[207] Biber.pm:645> INFO - Found 57 citekeys in bib section 0
+[246] Biber.pm:2977> INFO - Processing section 0
+[276] Biber.pm:3115> INFO - Looking for bibtex format file '/Users/Franzi/Desktop/R/Meine Bibliothek.bib' for section 0
+[302] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[321] bibtex.pm:895> INFO - Found BibTeX data source '/Users/Franzi/Desktop/R/Meine Bibliothek.bib'
+[407] Utils.pm:146> WARN - I didn't find a database entry for 'evans_market_2012' (section 0)
+[407] Utils.pm:146> WARN - I didn't find a database entry for 'dewenter_einfuehrung_2014' (section 0)
+[408] Utils.pm:146> WARN - I didn't find a database entry for 'kirchgaessner_introduction_2012' (section 0)
+[408] Utils.pm:146> WARN - I didn't find a database entry for 'kaltenhaeuser_abstimmung_2005' (section 0)
+[408] Utils.pm:146> WARN - I didn't find a database entry for 'vogel_populaere_1998' (section 0)
+[1095] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1095] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1095] Biber.pm:2854> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1095] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1263] bbl.pm:505> INFO - Writing '/Users/Franzi/Desktop/R/.texpadtmp/Neu.bbl' with encoding 'UTF-8'
+[1278] bbl.pm:596> INFO - Output to /Users/Franzi/Desktop/R/.texpadtmp/Neu.bbl
+[1278] Biber.pm:106> INFO - WARNINGS: 5

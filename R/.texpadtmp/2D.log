@@ -1,0 +1,489 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.12)  26 NOV 2016 14:09
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**2D.tikz
+(./2D.tikz
+./2D.tikz:7: Undefined control sequence.
+l.7 \definecolor
+                {mycolor1}{rgb}{0.00000,0.44700,0.74100}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:8: Undefined control sequence.
+l.8 \definecolor
+                {mycolor2}{rgb}{0.92900,0.69400,0.12500}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:9: Undefined control sequence.
+l.9 \definecolor
+                {mycolor3}{rgb}{0.46600,0.67400,0.18800}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:10: Undefined control sequence.
+l.10 \definecolor
+                 {mycolor4}{rgb}{0.63500,0.07800,0.18400}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:11: Undefined control sequence.
+l.11 \definecolor
+                 {mycolor5}{rgb}{0.85000,0.32500,0.09800}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:12: Undefined control sequence.
+l.12 \definecolor
+                 {mycolor6}{rgb}{0.49400,0.18400,0.55600}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:14: Undefined control sequence.
+l.14 \begin
+           {tikzpicture}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (544.22005pt too wide) in paragraph at lines 7--15
+[]\tenrm mycolor1rgb0.00000,0.44700,0.74100mycolor2rgb0.92900,0.69400,0.12500mycolor3rgb0.46600,0.67400,0.18800mycolor4rgb0.63500,0.07800,0.18400mycolor5rgb0.85000,0.32500,0.09800mycolor6rgb0.49400,0.18400,0.55600tikzpicture |
+
+\hbox(6.94444+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm m
+.\kern-0.27779
+.\tenrm y
+.\tenrm c
+.etc.
+
+./2D.tikz:16: Undefined control sequence.
+l.16 \begin
+           {axis}[%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:17: Undefined control sequence.
+l.17 width=0.951\figurewidth
+                            ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:18: Undefined control sequence.
+l.18 height=\figureheight
+                         ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:19: Undefined control sequence.
+l.19 at={(0\figurewidth
+                       ,0\figureheight)},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:19: Undefined control sequence.
+l.19 at={(0\figurewidth,0\figureheight
+                                      )},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:32: Undefined control sequence.
+l.32 \addplot
+              [color=mycolor1,solid,line width=1.0pt,mark size=3.0pt,mark=di...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:53: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.53 }
+      ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 0.0254704754539654\\ 3 -0.00158341924009108\\ 4 0.0074642743089186\ETC.
+./2D.tikz:53: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.53 }
+      ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (136.35748pt too wide) in paragraph at lines 16--53
+\tenrm ground/.style=fill=white, leg-end style=at=(1,1),anchor=north east,legend columns=6,legend cell align=left,align=left,draw=white!15!black|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm g
+.\tenrm r
+.\tenrm o
+.\tenrm u
+.\tenrm n
+.etc.
+
+
+Overfull \hbox (29.63506pt too wide) in paragraph at lines 16--53
+\tenrm ] [color=mycolor1,solid,line width=1.0pt,mark size=3.0pt,mark=diamond,mark op-tions=solid] ta-ble[row sep=crcr]1|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm ]
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.etc.
+
+./2D.tikz:54: Undefined control sequence.
+l.54 \addlegendentry
+                    {$\mu=0$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:56: Undefined control sequence.
+l.56 \addplot
+              [color=mycolor2,solid,line width=1.0pt,mark size=3.0pt,mark=as...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:77: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.77 }
+      ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 -0.264393408754916\\ 3 -0.312751986835531\\ 4 -0.26522605453131\\ \ETC.
+./2D.tikz:77: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.77 }
+      ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (10.21837pt too wide) in paragraph at lines 56--77
+[]\tenrm [color=mycolor2,solid,line width=1.0pt,mark size=3.0pt,mark=asterisk,mark op-tions=solid,fill=mycolor2]|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.\tenrm l
+.etc.
+
+./2D.tikz:78: Undefined control sequence.
+l.78 \addlegendentry
+                    {$\mu=.2$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:80: Undefined control sequence.
+l.80 \addplot
+              [color=mycolor3,solid,line width=1.0pt,mark size=3.0pt,mark=+,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:101: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.101 }
+       ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 -0.557764919676092\\ 3 -0.499140369407292\\ 4 -0.487973315093384\\\ETC.
+./2D.tikz:101: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.101 }
+       ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (14.63496pt too wide) in paragraph at lines 80--101
+[]\tenrm [color=mycolor3,solid,line width=1.0pt,mark size=3.0pt,mark=+,mark op-tions=solid] ta-ble[row sep=crcr]1|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.\tenrm l
+.etc.
+
+./2D.tikz:102: Undefined control sequence.
+l.102 \addlegendentry
+                     {$\mu=.4$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:104: Undefined control sequence.
+l.104 \addplot
+               [color=mycolor4,solid,line width=1.0pt,mark size=3.0pt,mark=t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:125: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.125 }
+       ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 -0.775015953328671\\ 3 -0.691486070391298\\ 4 -0.649734173841395\\\ETC.
+./2D.tikz:125: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.125 }
+       ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (0.94058pt too wide) in paragraph at lines 104--125
+[]\tenrm [color=mycolor4,solid,line width=1.0pt,mark size=3.0pt,mark=triangle,mark op-tions=solid,rotate=180]|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.\tenrm l
+.etc.
+
+./2D.tikz:126: Undefined control sequence.
+l.126 \addlegendentry
+                     {$\mu=.6$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:128: Undefined control sequence.
+l.128 \addplot
+               [color=mycolor5,solid,line width=1.0pt,mark size=3.0pt,mark=s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:149: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.149 }
+       ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 -0.907212044228252\\ 3 -0.85751423749539\\ 4 -0.837283479982717\\ \ETC.
+./2D.tikz:149: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.149 }
+       ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (34.9961pt too wide) in paragraph at lines 128--149
+[]\tenrm [color=mycolor5,solid,line width=1.0pt,mark size=3.0pt,mark=square,mark op-tions=solid] ta-ble[row sep=crcr]1|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.\tenrm l
+.etc.
+
+./2D.tikz:150: Undefined control sequence.
+l.150 \addlegendentry
+                     {$\mu=.8$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:152: Undefined control sequence.
+l.152 \addplot
+               [color=mycolor6,solid,line width=1.0pt,mark size=3.0pt,mark=x...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./2D.tikz:173: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.173 }
+       ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ 2 -0.978702883563765\\ 3 -0.952921049810375\\ 4 -0.921263512192518\\\ETC.
+./2D.tikz:173: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.173 }
+       ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (12.13496pt too wide) in paragraph at lines 152--173
+[]\tenrm [color=mycolor6,solid,line width=1.0pt,mark size=3.0pt,mark=x,mark op-tions=solid] ta-ble[row sep=crcr]1|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm c
+.\tenrm o
+.\tenrm l
+.etc.
+
+./2D.tikz:174: Undefined control sequence.
+l.174 \addlegendentry
+                     {$\mu=1$};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on /Users/Franzi/Desktop/R/.texpadtmp/2D.pdf (1 page, 28607 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

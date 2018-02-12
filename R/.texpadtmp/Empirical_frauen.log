@@ -1,0 +1,2943 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2016.5.12)  7 DEC 2016 18:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Empirical_frauen.tex
+(./Empirical_frauen.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2015/05/06 v3.17a KOMA-Script document class (report)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2015/05/06 v3.17a KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2015/05/06 v3.17a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/05/06 v3.17a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2015/05/06 v3.17a KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 124.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 125.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 126.
+Package tocbasic Info: defining new hook before heading of `' on input line 1552.
+Package scrreprt Info: You've used standard option `10pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=10pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=10pt' there
+(scrreprt)             instead of `10pt', too.
+Class scrreprt Info: File `scrsize10pt.clo' used to setup font sizes on input line 2149.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
+File: scrsize10pt.clo 2015/05/06 v3.17a KOMA-Script font size class option (10pt)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2015/05/06 v3.17a KOMA-Script package (type area)
+
+Package typearea, 2015/05/06 v3.17a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = -4%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 538.0pt
+(typearea)              \topmargin      = 0.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 1485.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+LaTeX Info: Redefining \textsubscript on input line 4417.
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen104
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgfplots/pgfplots.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2015/05/02 v1.12.1 Data Visualization (1.12.1)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen113
+\pgfutil@tempdimb=\dimen114
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen117
+\pgf@y=\dimen118
+\pgf@xa=\dimen119
+\pgf@ya=\dimen120
+\pgf@xb=\dimen121
+\pgf@yb=\dimen122
+\pgf@xc=\dimen123
+\pgf@yc=\dimen124
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count102
+\c@pgf@countb=\count103
+\c@pgf@countc=\count104
+\c@pgf@countd=\count105
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-dvips.def
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvips.def
+File: pgfsys-dvips.def 2013/07/16  (rcs-revision 1.23)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-postscript.def
+File: pgfsys-common-postscript.def 2008/10/01  (rcs-revision 1.22)
+\pgf@objectcount=\count106
+))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count107
+\pgfsyssoftpath@bigbuffer@items=\count108
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen125
+\pgfmath@count=\count109
+\pgfmath@box=\box30
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count110
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen126
+\pgf@picmaxx=\dimen127
+\pgf@picminy=\dimen128
+\pgf@picmaxy=\dimen129
+\pgf@pathminx=\dimen130
+\pgf@pathmaxx=\dimen131
+\pgf@pathminy=\dimen132
+\pgf@pathmaxy=\dimen133
+\pgf@xx=\dimen134
+\pgf@xy=\dimen135
+\pgf@yx=\dimen136
+\pgf@yy=\dimen137
+\pgf@zx=\dimen138
+\pgf@zy=\dimen139
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen140
+\pgf@path@lasty=\dimen141
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen142
+\pgf@shorten@start@additional=\dimen143
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count111
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen144
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen145
+\pgf@pt@y=\dimen146
+\pgf@pt@temp=\dimen147
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen148
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen149
+\pgf@sys@shading@range@num=\count112
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box34
+)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box35
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen150
+\pgf@nodesepend=\dimen151
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen152
+\pgffor@skip=\dimen153
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count113
+\pgfplotmarksize=\dimen154
+)
+\tikz@lastx=\dimen155
+\tikz@lasty=\dimen156
+\tikz@lastxsaved=\dimen157
+\tikz@lastysaved=\dimen158
+\tikzleveldistance=\dimen159
+\tikzsiblingdistance=\dimen160
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count114
+\tikznumberofchildren=\count115
+\tikznumberofcurrentchild=\count116
+\tikz@fig@count=\count117
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count118
+\pgfmatrixcurrentcolumn=\count119
+\pgf@matrix@numberofcolumns=\count120
+)
+\tikz@expandcount=\count121
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks34
+\t@pgfplots@tokb=\toks35
+\t@pgfplots@tokc=\toks36
+\pgfplots@tmpa=\dimen161
+\c@pgfplots@coordindex=\count122
+\c@pgfplots@scanlineindex=\count123
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgflibraryfpu.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count124
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_trig_format.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count125
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count126
+\t@pgfplotstable@a=\toks37
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count127
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-dvips.def))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen162
+\pgfdecoratedremainingdistance=\dimen163
+\pgfdecoratedinputsegmentcompleteddistance=\dimen164
+\pgfdecoratedinputsegmentremainingdistance=\dimen165
+\pgf@decorate@distancetomove=\dimen166
+\pgf@decorate@repeatstate=\count128
+\pgfdecorationsegmentamplitude=\dimen167
+\pgfdecorationsegmentlength=\dimen168
+)
+\tikz@lib@dec@box=\box40
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count129
+\pgfplots@xmin@reg=\dimen169
+\pgfplots@xmax@reg=\dimen170
+\pgfplots@ymin@reg=\dimen171
+\pgfplots@ymax@reg=\dimen172
+\pgfplots@zmin@reg=\dimen173
+\pgfplots@zmax@reg=\dimen174
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2013/07/20 v3.0.0 (rcs-revision 1.13)
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen175
+\captionmargin@=\dimen176
+\captionwidth=\dimen177
+\caption@tempdima=\dimen178
+\caption@indent=\dimen179
+\caption@parindent=\dimen180
+\caption@hangindent=\dimen181
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count130
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tikz-3dplot/tikz-3dplot.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2013/07/17 v3.0.0 (rcs-revision 1.2)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen182
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count131
+\c@subtable=\count132
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count133
+\float@exts=\toks38
+\float@box=\box41
+\@float@everytoks=\toks39
+\@floatcapt=\box42
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen183
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count134
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box43
+\rot@mess@toks=\toks40
+) (/Users/Franzi/Desktop/R/.texpadtmp/Empirical_frauen.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `Empirical_frauen.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into your preamble.
+ on input line 16.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface .
+
+./Empirical_frauen.tex:32: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.32 	\centering
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:32: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.32 	\centering
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./circ_frauen1.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 329--34
+[][]
+ []
+
+./Empirical_frauen.tex:34: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.34 \end{minipage}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.34 \end{minipage}
+                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+./Empirical_frauen.tex:37: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.37 	\centering
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:37: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.37 	\centering
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./circ_frauen2.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 311--39
+[][]
+ []
+
+./Empirical_frauen.tex:39: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.39 \end{minipage}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:39: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.39 \end{minipage}
+                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Empirical_frauen.tex:72: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.72 	\centering
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:72: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.72 	\centering
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./ads_frauen1.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 321--74
+[][]
+ []
+
+./Empirical_frauen.tex:74: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.74 \end{minipage}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:74: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.74 \end{minipage}
+                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Empirical_frauen.tex:77: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.77 	\centering
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:77: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.77 	\centering
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./ads_frauen2.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 311--79
+[][]
+ []
+
+./Empirical_frauen.tex:79: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.79 \end{minipage}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:79: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.79 \end{minipage}
+                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1
+
+
+]
+./Empirical_frauen.tex:168: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.168 	\centering
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:168: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.168 	\centering
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./arima_circ_frauen1.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 332--170
+[][]
+ []
+
+./Empirical_frauen.tex:170: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.170 \end{minipage}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:170: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.170 \end{minipage}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Empirical_frauen.tex:173: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.173 	\centering
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:173: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.173 	\centering
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./arima_circ_frauen2.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 314--175
+[][]
+ []
+
+./Empirical_frauen.tex:175: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.175 \end{minipage}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:175: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.175 \end{minipage}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[2] [3]
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:181: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Empirical_frauen.tex:191: Missing $ inserted.
+<inserted text> 
+                $
+l.191   intercept & 718,323.300^
+                                {***} & 715,138.500^{***} & 227,083.200^{*} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:191: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.191   intercept & 718,323.300^{***} &
+                                        715,138.500^{***} & 227,083.200^{*} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:191: Missing $ inserted.
+<inserted text> 
+                $
+l.191   intercept & 718,323.300^{***} &
+                                        715,138.500^{***} & 227,083.200^{*} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:191: Missing } inserted.
+<inserted text> 
+                }
+l.191   intercept & 718,323.300^{***} &
+                                        715,138.500^{***} & 227,083.200^{*} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:191: Missing $ inserted.
+<inserted text> 
+                $
+l.191 ...ercept & 718,323.300^{***} & 715,138.500^
+                                                  {***} & 227,083.200^{*} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:191: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.191 ...& 718,323.300^{***} & 715,138.500^{***} &
+                                                   227,083.200^{*} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:191: Missing $ inserted.
+<inserted text> 
+                $
+l.191 ...& 718,323.300^{***} & 715,138.500^{***} &
+                                                   227,083.200^{*} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:191: Missing } inserted.
+<inserted text> 
+                }
+l.191 ...& 718,323.300^{***} & 715,138.500^{***} &
+                                                   227,083.200^{*} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:191: Missing $ inserted.
+<inserted text> 
+                $
+l.191 ...^{***} & 715,138.500^{***} & 227,083.200^
+                                                  {*} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:192: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.192   &
+          (72,811.740) & (101,010.700) & (116,678.700) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:192: Missing $ inserted.
+<inserted text> 
+                $
+l.192   &
+          (72,811.740) & (101,010.700) & (116,678.700) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:192: Missing } inserted.
+<inserted text> 
+                }
+l.192   &
+          (72,811.740) & (101,010.700) & (116,678.700) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:195: Missing $ inserted.
+<inserted text> 
+                $
+l.195   Brigitte &  & -0.233^
+                             {*} & 0.303^{**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:195: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.195   Brigitte &  & -0.233^{*} &
+                                   0.303^{**} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:195: Missing $ inserted.
+<inserted text> 
+                $
+l.195   Brigitte &  & -0.233^{*} &
+                                   0.303^{**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:195: Missing } inserted.
+<inserted text> 
+                }
+l.195   Brigitte &  & -0.233^{*} &
+                                   0.303^{**} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:195: Missing $ inserted.
+<inserted text> 
+                $
+l.195   Brigitte &  & -0.233^{*} & 0.303^
+                                         {**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:196: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.196   &
+           & (0.128) & (0.118) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:196: Missing $ inserted.
+<inserted text> 
+                $
+l.196   &
+           & (0.128) & (0.118) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:196: Missing } inserted.
+<inserted text> 
+                }
+l.196   &
+           & (0.128) & (0.118) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197   FuerSie & 0.260^
+                        {***} & 0.021 &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:197: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.197   FuerSie & 0.260^{***} &
+                                0.021 &  \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197   FuerSie & 0.260^{***} &
+                                0.021 &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:197: Missing } inserted.
+<inserted text> 
+                }
+l.197   FuerSie & 0.260^{***} &
+                                0.021 &  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:212: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Empirical_frauen.tex:220: Missing $ inserted.
+<inserted text> 
+                $
+l.220  ma1 & -0.784^
+                    {***} & -0.861^{***} & -0.790^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:220: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.220  ma1 & -0.784^{***} &
+                            -0.861^{***} & -0.790^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:220: Missing $ inserted.
+<inserted text> 
+                $
+l.220  ma1 & -0.784^{***} &
+                            -0.861^{***} & -0.790^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:220: Missing } inserted.
+<inserted text> 
+                }
+l.220  ma1 & -0.784^{***} &
+                            -0.861^{***} & -0.790^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:220: Missing $ inserted.
+<inserted text> 
+                $
+l.220  ma1 & -0.784^{***} & -0.861^
+                                   {***} & -0.790^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:220: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.220  ma1 & -0.784^{***} & -0.861^{***} &
+                                           -0.790^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:220: Missing $ inserted.
+<inserted text> 
+                $
+l.220  ma1 & -0.784^{***} & -0.861^{***} &
+                                           -0.790^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:220: Missing } inserted.
+<inserted text> 
+                }
+l.220  ma1 & -0.784^{***} & -0.861^{***} &
+                                           -0.790^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:220: Missing $ inserted.
+<inserted text> 
+                $
+l.220  ma1 & -0.784^{***} & -0.861^{***} & -0.790^
+                                                  {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:221: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.221   &
+          (0.080) & (0.054) & (0.067) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:221: Missing $ inserted.
+<inserted text> 
+                $
+l.221   &
+          (0.080) & (0.054) & (0.067) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:221: Missing } inserted.
+<inserted text> 
+                }
+l.221   &
+          (0.080) & (0.054) & (0.067) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:222: Missing $ inserted.
+<inserted text> 
+                $
+l.222   Freundin & 0.033 &  & 0.425^
+                                    {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:223: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.223   &
+          (0.121) &  & (0.128) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:223: Missing $ inserted.
+<inserted text> 
+                $
+l.223   &
+          (0.121) &  & (0.128) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:223: Missing } inserted.
+<inserted text> 
+                }
+l.223   &
+          (0.121) &  & (0.128) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226   FuerSie & -0.020 & 0.316^
+                                 {***} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:226: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.226   FuerSie & -0.020 & 0.316^{***} &
+                                          \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:226: Missing $ inserted.
+<inserted text> 
+                $
+l.226   FuerSie & -0.020 & 0.316^{***} &
+                                          \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:226: Missing } inserted.
+<inserted text> 
+                }
+l.226   FuerSie & -0.020 & 0.316^{***} &
+                                          \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:243: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.243 	\centering
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:243: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.243 	\centering
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./arima_ads_frauen1.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 336--245
+[][]
+ []
+
+./Empirical_frauen.tex:245: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.245 \end{minipage}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:245: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.245 \end{minipage}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Empirical_frauen.tex:248: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.248 	\centering
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:248: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.248 	\centering
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+(./arima_ads_frauen2.tex)
+Overfull \hbox (234.87529pt too wide) in paragraph at lines 314--250
+[][]
+ []
+
+./Empirical_frauen.tex:250: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.250 \end{minipage}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Empirical_frauen.tex:250: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.250 \end{minipage}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[4] [5]
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:256: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Empirical_frauen.tex:264: Missing $ inserted.
+<inserted text> 
+                $
+l.264  ar1 & -0.778^
+                    {***} &  &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:264: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.264  ar1 & -0.778^{***} &
+                             &  \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:264: Missing $ inserted.
+<inserted text> 
+                $
+l.264  ar1 & -0.778^{***} &
+                             &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:264: Missing } inserted.
+<inserted text> 
+                }
+l.264  ar1 & -0.778^{***} &
+                             &  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:266: Missing $ inserted.
+<inserted text> 
+                $
+l.266   ar2 & -0.380^
+                     {***} &  &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:266: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.266   ar2 & -0.380^{***} &
+                              &  \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:266: Missing $ inserted.
+<inserted text> 
+                $
+l.266   ar2 & -0.380^{***} &
+                              &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:266: Missing } inserted.
+<inserted text> 
+                }
+l.266   ar2 & -0.380^{***} &
+                              &  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:268: Missing $ inserted.
+<inserted text> 
+                $
+l.268   Freundin & 0.523^
+                         {***} &  & 0.365^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:268: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.268   Freundin & 0.523^{***} &
+                                  & 0.365^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:268: Missing $ inserted.
+<inserted text> 
+                $
+l.268   Freundin & 0.523^{***} &
+                                  & 0.365^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:268: Missing } inserted.
+<inserted text> 
+                }
+l.268   Freundin & 0.523^{***} &
+                                  & 0.365^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:268: Missing $ inserted.
+<inserted text> 
+                $
+l.268   Freundin & 0.523^{***} &  & 0.365^
+                                          {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:269: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.269   &
+          (0.100) &  & (0.084) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:269: Missing $ inserted.
+<inserted text> 
+                $
+l.269   &
+          (0.100) &  & (0.084) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:269: Missing } inserted.
+<inserted text> 
+                }
+l.269   &
+          (0.100) &  & (0.084) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:270: Missing $ inserted.
+<inserted text> 
+                $
+l.270   intercept &  & 16.074^
+                              {**} & 9.151 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:270: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.270   intercept &  & 16.074^{**} &
+                                     9.151 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:270: Missing $ inserted.
+<inserted text> 
+                $
+l.270   intercept &  & 16.074^{**} &
+                                     9.151 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:270: Missing } inserted.
+<inserted text> 
+                }
+l.270   intercept &  & 16.074^{**} &
+                                     9.151 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:272: Missing $ inserted.
+<inserted text> 
+                $
+l.272   Brigitte &  & 0.520^
+                            {***} & 0.219^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:272: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.272   Brigitte &  & 0.520^{***} &
+                                    0.219^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:272: Missing $ inserted.
+<inserted text> 
+                $
+l.272   Brigitte &  & 0.520^{***} &
+                                    0.219^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:272: Missing } inserted.
+<inserted text> 
+                }
+l.272   Brigitte &  & 0.520^{***} &
+                                    0.219^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:272: Missing $ inserted.
+<inserted text> 
+                $
+l.272   Brigitte &  & 0.520^{***} & 0.219^
+                                          {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:273: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.273   &
+           & (0.089) & (0.085) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:273: Missing $ inserted.
+<inserted text> 
+                $
+l.273   &
+           & (0.089) & (0.085) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:273: Missing } inserted.
+<inserted text> 
+                }
+l.273   &
+           & (0.089) & (0.085) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274   FuerSie & 0.467^
+                        {***} & 0.530^{***} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:274: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.274   FuerSie & 0.467^{***} &
+                                0.530^{***} &  \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274   FuerSie & 0.467^{***} &
+                                0.530^{***} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:274: Missing } inserted.
+<inserted text> 
+                }
+l.274   FuerSie & 0.467^{***} &
+                                0.530^{***} &  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274   FuerSie & 0.467^{***} & 0.530^
+                                      {***} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:274: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.274   FuerSie & 0.467^{***} & 0.530^{***} &
+                                               \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:274: Missing $ inserted.
+<inserted text> 
+                $
+l.274   FuerSie & 0.467^{***} & 0.530^{***} &
+                                               \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:274: Missing } inserted.
+<inserted text> 
+                }
+l.274   FuerSie & 0.467^{***} & 0.530^{***} &
+                                               \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Empirical_frauen.tex:289: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 ...t}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} }
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./Empirical_frauen.tex:297: Missing $ inserted.
+<inserted text> 
+                $
+l.297  intercept & 16.540^
+                          {***} &  & 18.059^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:297: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.297  intercept & 16.540^{***} &
+                                   & 18.059^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:297: Missing $ inserted.
+<inserted text> 
+                $
+l.297  intercept & 16.540^{***} &
+                                   & 18.059^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:297: Missing } inserted.
+<inserted text> 
+                }
+l.297  intercept & 16.540^{***} &
+                                   & 18.059^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:297: Missing $ inserted.
+<inserted text> 
+                $
+l.297  intercept & 16.540^{***} &  & 18.059^
+                                            {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:298: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.298   &
+          (5.638) &  & (4.703) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:298: Missing $ inserted.
+<inserted text> 
+                $
+l.298   &
+          (5.638) &  & (4.703) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:298: Missing } inserted.
+<inserted text> 
+                }
+l.298   &
+          (5.638) &  & (4.703) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:299: Missing $ inserted.
+<inserted text> 
+                $
+l.299   Freundin & 0.456^
+                         {***} &  & 0.137^{**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:299: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.299   Freundin & 0.456^{***} &
+                                  & 0.137^{**} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:299: Missing $ inserted.
+<inserted text> 
+                $
+l.299   Freundin & 0.456^{***} &
+                                  & 0.137^{**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:299: Missing } inserted.
+<inserted text> 
+                }
+l.299   Freundin & 0.456^{***} &
+                                  & 0.137^{**} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:299: Missing $ inserted.
+<inserted text> 
+                $
+l.299   Freundin & 0.456^{***} &  & 0.137^
+                                          {**} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:300: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.300   &
+          (0.064) &  & (0.069) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:300: Missing $ inserted.
+<inserted text> 
+                $
+l.300   &
+          (0.064) &  & (0.069) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:300: Missing } inserted.
+<inserted text> 
+                }
+l.300   &
+          (0.064) &  & (0.069) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:305: Missing $ inserted.
+<inserted text> 
+                $
+l.305   ma1 &  & -1.300^
+                        {**} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:305: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.305   ma1 &  & -1.300^{**} &
+                                \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:305: Missing $ inserted.
+<inserted text> 
+                $
+l.305   ma1 &  & -1.300^{**} &
+                                \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:305: Missing } inserted.
+<inserted text> 
+                }
+l.305   ma1 &  & -1.300^{**} &
+                                \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:309: Missing $ inserted.
+<inserted text> 
+                $
+l.309   Brigitte &  & 0.960^
+                            {***} & 0.259^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:309: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.309   Brigitte &  & 0.960^{***} &
+                                    0.259^{***} \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:309: Missing $ inserted.
+<inserted text> 
+                $
+l.309   Brigitte &  & 0.960^{***} &
+                                    0.259^{***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:309: Missing } inserted.
+<inserted text> 
+                }
+l.309   Brigitte &  & 0.960^{***} &
+                                    0.259^{***} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:309: Missing $ inserted.
+<inserted text> 
+                $
+l.309   Brigitte &  & 0.960^{***} & 0.259^
+                                          {***} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:310: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.310   &
+           & (0.119) & (0.093) \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:310: Missing $ inserted.
+<inserted text> 
+                $
+l.310   &
+           & (0.119) & (0.093) \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:310: Missing } inserted.
+<inserted text> 
+                }
+l.310   &
+           & (0.119) & (0.093) \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:311: Missing $ inserted.
+<inserted text> 
+                $
+l.311   FuerSie & 0.347^
+                        {***} & 0.319^{*} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:311: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.311   FuerSie & 0.347^{***} &
+                                0.319^{*} &  \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:311: Missing $ inserted.
+<inserted text> 
+                $
+l.311   FuerSie & 0.347^{***} &
+                                0.319^{*} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:311: Missing } inserted.
+<inserted text> 
+                }
+l.311   FuerSie & 0.347^{***} &
+                                0.319^{*} &  \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Empirical_frauen.tex:311: Missing $ inserted.
+<inserted text> 
+                $
+l.311   FuerSie & 0.347^{***} & 0.319^
+                                      {*} &  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:311: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.311   FuerSie & 0.347^{***} & 0.319^{*} &
+                                             \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Empirical_frauen.tex:311: Missing $ inserted.
+<inserted text> 
+                $
+l.311   FuerSie & 0.347^{***} & 0.319^{*} &
+                                             \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Empirical_frauen.tex:311: Missing } inserted.
+<inserted text> 
+                }
+l.311   FuerSie & 0.347^{***} & 0.319^{*} &
+                                             \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+File: ccf_circ_frauen1.eps Graphic file (type eps)
+<ccf_circ_frauen1.eps>
+File: ccf_circ_frauen2.eps Graphic file (type eps)
+ <ccf_circ_frauen2.eps> [6] [7] [8] [9]
+File: ccf_ads_frauen1.eps Graphic file (type eps)
+ <ccf_ads_frauen1.eps> [10]
+File: ccf_ads_frauen2.eps Graphic file (type eps)
+ <ccf_ads_frauen2.eps> [11]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 493.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 493.
+ [12]
+File: irf_circ_frauen1_1.eps Graphic file (type eps)
+ <irf_circ_frauen1_1.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 536--537
+ [][] 
+ []
+
+File: irf_circ_frauen1_2.eps Graphic file (type eps)
+<irf_circ_frauen1_2.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 541--542
+ [][] 
+ []
+
+File: irf_circ_frauen1_3.eps Graphic file (type eps)
+<irf_circ_frauen1_3.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 546--547
+ [][] 
+ []
+
+
+Overfull \hbox (27.11832pt too wide) in paragraph at lines 534--548
+[]$[]$  $[]$
+ []
+
+[13]
+File: irf_circ_frauen2_1.eps Graphic file (type eps)
+ <irf_circ_frauen2_1.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 554--555
+ [][] 
+ []
+
+File: irf_circ_frauen2_2.eps Graphic file (type eps)
+<irf_circ_frauen2_2.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 559--560
+ [][] 
+ []
+
+File: irf_circ_frauen2_3.eps Graphic file (type eps)
+<irf_circ_frauen2_3.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 564--565
+ [][] 
+ []
+
+
+Overfull \hbox (27.11832pt too wide) in paragraph at lines 552--566
+[]$[]$  $[]$
+ []
+
+[14]
+File: irf_ads_frauen1_1.eps Graphic file (type eps)
+ <irf_ads_frauen1_1.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 572--573
+ [][] 
+ []
+
+File: irf_ads_frauen1_2.eps Graphic file (type eps)
+<irf_ads_frauen1_2.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 577--578
+ [][] 
+ []
+
+File: irf_ads_frauen1_3.eps Graphic file (type eps)
+<irf_ads_frauen1_3.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 582--583
+ [][] 
+ []
+
+
+Overfull \hbox (27.11832pt too wide) in paragraph at lines 570--584
+[]$[]$  $[]$
+ []
+
+[15]
+File: irf_ads_frauen2_1.eps Graphic file (type eps)
+ <irf_ads_frauen2_1.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 591--592
+ [][] 
+ []
+
+File: irf_ads_frauen2_2.eps Graphic file (type eps)
+<irf_ads_frauen2_2.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 596--597
+ [][] 
+ []
+
+File: irf_ads_frauen2_3.eps Graphic file (type eps)
+<irf_ads_frauen2_3.eps>
+Overfull \hbox (84.39009pt too wide) in paragraph at lines 601--602
+ [][] 
+ []
+
+
+Overfull \hbox (27.11832pt too wide) in paragraph at lines 589--603
+[]$[]$  $[]$
+ []
+
+[16] [17] (/Users/Franzi/Desktop/R/.texpadtmp/Empirical_frauen.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 26194 strings out of 493090
+ 637751 string characters out of 6134868
+ 839350 words of memory out of 5000000
+ 29236 multiletter control sequences out of 15000+600000
+ 7166 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,10n,81p,732b,819s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/Franzi/Desktop/R/.texpadtmp/Empirical_frauen.dvi (17 pages, 151172 bytes).
